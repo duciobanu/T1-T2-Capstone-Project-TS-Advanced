@@ -1,4 +1,5 @@
-# T1-T2-Capstone-Project-TS-Advanced
+# T1 → T2 Development Plan:
+## Module 2. Advanced TypeScript
 
 In this module you will cover your task with (enums, types, interfaces, generic, utility types, decorators, mixins)
 
